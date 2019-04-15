@@ -1,7 +1,9 @@
 This repo is where I've been playing around with python and the NBA's great hot hand debate. 
 
+<br><br>
 ( 🔨 Some of the analysis is still in progress.)
 
+<br><br>
 🏀 [My initial analysis of some Kobe Bryant shot data lives here.](https://github.com/jessimk/hothand/blob/master/kobe_hothand_python.ipynb)
 
 
