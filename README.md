@@ -1,4 +1,4 @@
-This repo is where I've been playing around with python and the NBA's great hot hand debate. 
+This repo is where I've been playing around the NBA's great hot hand debate. 
 
 [🏀 My initial analysis of some Kobe Bryant shot data is here](https://github.com/jessimk/hothand/blob/master/kobe_hothand_python.ipynb).
 
