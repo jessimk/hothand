@@ -8,8 +8,6 @@ I also used this mini project to work on my dictionary and pandas skills. I'm ho
 
 ( 🔨 Lots of the analysis is still in progress.)
 
-
-<br>
 Data:
 - Kobe data from the `statsR` [package](https://github.com/StatsWithR/statsr/tree/master/data)
 - Raw shot log data is for the 2014-2015 NBA Season and originally from [Kaggle](https://www.kaggle.com/dansbecker/nba-shot-logs/home).
