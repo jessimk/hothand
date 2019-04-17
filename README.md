@@ -5,8 +5,6 @@ This repo is where I've been playing around with python and the NBA's great hot 
 
 🔥 [2. I made some shot streak data here](https://github.com/jessimk/hothand/blob/master/Streaky-ness.ipynb) from this [raw shot log data](https://github.com/jessimk/LBJ_Make_or_Miss/blob/master/data/shot_logs_raw.csv).
 
-The raw shot log data is for the2014-2015 NBA Season and originally from [Kaggle](https://www.kaggle.com/dansbecker/nba-shot-logs/home).
-
 I also used this mini project to work on my dictionary and pandas skills. I'm hoping to add some hypothesis testing next as well as some interactive plots. 
 
 ( 🔨 Lots of the analysis is still in progress.)
@@ -15,6 +13,7 @@ I also used this mini project to work on my dictionary and pandas skills. I'm ho
 <br><br>
 Data:
 - Kobe data from the `statsR` [package](https://github.com/StatsWithR/statsr/tree/master/data)
+- Raw shot log data is for the 2014-2015 NBA Season and originally from [Kaggle](https://www.kaggle.com/dansbecker/nba-shot-logs/home).
 
 <br><br>
 <p align="center">   
