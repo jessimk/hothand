@@ -1,14 +1,16 @@
-This repo is where I've been playing around with python and the NBA's great hot hand debate. 
+This repo is where I've been playing around the NBA's great hot hand debate. 
 
-<br><br>
-🏀 [My initial analysis of some Kobe Bryant shot data lives here.](https://github.com/jessimk/hothand/blob/master/kobe_hothand_python.ipynb)
+[🏀 My initial analysis of some Kobe Bryant shot data is here](https://github.com/jessimk/hothand/blob/master/kobe_hothand_python.ipynb).
 
-( 🔨 Some of the analysis is still in progress.)
+[🔥 I wrangled some shot streak data here](https://github.com/jessimk/hothand/blob/master/Streaky-ness.ipynb) from this [raw shot log data](https://github.com/jessimk/LBJ_Make_or_Miss/blob/master/data/shot_logs_raw.csv).
 
+I also used this mini project to work on my dictionary and pandas skills. I'm hoping to add some hypothesis testing next as well as some interactive plots. 
 
-<br><br>
+( 🔨 Lots of the analysis is still in progress.)
+
 Data:
 - Kobe data from the `statsR` [package](https://github.com/StatsWithR/statsr/tree/master/data)
+- Raw shot log data is for the 2014-2015 NBA Season and originally from [Kaggle](https://www.kaggle.com/dansbecker/nba-shot-logs/home).
 
 <br><br>
 <p align="center">   
