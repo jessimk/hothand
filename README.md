@@ -2,7 +2,7 @@ This repo is where I've been playing around the NBA's great hot hand debate.
 
 [🏀 My initial analysis of some Kobe Bryant shot data is here](https://github.com/jessimk/hothand/blob/master/kobe_hothand_python.ipynb).
 
-[🔥 Shot streak wrangling and analysis is best viewed here (via NBViewer](https://nbviewer.jupyter.org/github/jessimk/hothand/blob/master/Streaky-ness.ipynb) from this [raw shot log data](https://github.com/jessimk/LBJ_Make_or_Miss/blob/master/data/shot_logs_raw.csv).
+[🔥 Shot streak wrangling and analysis is best viewed here (via NBViewer)](https://nbviewer.jupyter.org/github/jessimk/hothand/blob/master/Streaky-ness.ipynb) from this [raw shot log data](https://github.com/jessimk/LBJ_Make_or_Miss/blob/master/data/shot_logs_raw.csv).
 
 I also used this mini project to work on my dictionary and pandas skills. I'm hoping to add some hypothesis testing next as well as some interactive plots. 
 
